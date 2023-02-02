@@ -1,3 +1,3 @@
 SELECT * from states ;
 
-select uf, poverty, region from states where region in ("north", "northeast", "center-west", "southeast", "south");
+select uf, region, poverty from states where uf in ("MA", "AM", "MT", "MG", "PR") group by region;
