@@ -13,9 +13,9 @@ Escolhemos uma base de dados que contém diversas informações sobre os estados
 ## Explicação sobre algumas perguntas
 
 
-👉 O que é o Índice de Desenvolvimento Humano (IDH)?
- Possui um índice que varia de 0 a 1. Quanto mais próximo de 1, melhor é o IDH. Nesse índice é medido: expectativa de vida, as maiores taxas de alfabetização e indicadores de renda per capita.
+### 👉 O que é o Índice de Desenvolvimento Humano (IDH)?
 
+ Possui um índice que varia de 0 a 1. Quanto mais próximo de 1, melhor é o IDH. Nesse índice é medido: expectativa de vida, as maiores taxas de alfabetização e indicadores de renda per capita.
 
 Há cinco faixas do IDH:
 * 0,000 – 0,499 – Muito Baixo
@@ -24,25 +24,40 @@ Há cinco faixas do IDH:
 * 0,700 – 0,799 – Alto
 * 0,800 – 1,000 – Muito Alto
 
-👉 O que é categorizado como extrema pobreza (2010)?
+
+### 👉 O que é categorizado como extrema pobreza (2010)?<br>
+
 Considerando que, em 2010, o salário mínimo era de R$510, era entendido que viver em extrema pobreza estava na faixa de R$70 per capita. 
+
+
+### 👉 O que é PIB per capita?<br>
+
+O **PIB per capita** é o produto interno bruto dividido pela quantidade de habitantes. No caso usado na pergunta, é o número de habitantes de cada estado.
 
 
 # Perguntas realizadas:
 
-
-#### -Quais são os 5 estados com maior IDH (Índice de Desenvolvimento Humano)?
-
-![Screenshot](gráficos/gráfico-p1.png)
-
-#### -Quantos estados brasileiros possuem menos de 100 cidades? Quais são eles?
-
-![Screenshot](gráficos/gráfico-p2.png)
+| <h3>Quais são os 5 estados com maior IDH (Índice de Desenvolvimento Humano) (2019)?</h3> | 
+|----------------| 
+| ![Screenshot](gráficos/gráfico-p1.png) |
 
 
-#### -Qual o estado, de cada região do Brasil, com o maior número de pessoas vivendo em extrema pobreza (2010)?
+| <h3>Quantos estados brasileiros possuem menos de 100 cidades? Quais são eles?</h3> |
+|----------------| 
+| ![Screenshot](gráficos/gráfico-p2.png) |
 
-![Screenshot](gráficos/gráfico-p3.png)
--Qual os 5 estado com maior PIB do Brasil?
 
--Quais os 10 estados com maior população?
+| <h3>Qual o estado, de cada região do Brasil, com o maior número de pessoas vivendo em extrema pobreza (2010)?</h3> |
+|----------------|
+| ![Screenshot](gráficos/gráfico-p3.png) |
+
+
+| <h3>Qual são os 5 estados com maior PIB per capita do Brasil? (2019)</h3> |
+|----------------|
+| ![Screenshot](gráficos/gráfico-p4.png) |
+
+
+| <h3>Quais são os 10 estados brasileiros com maior população (2019)?</h3> |
+|----------------|
+| ![Screenshot](gráficos/gráfico-p5.png) |
+
