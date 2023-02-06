@@ -61,3 +61,10 @@ O **PIB per capita** é o produto interno bruto dividido pela quantidade de habi
 |----------------|
 | ![Screenshot](gráficos/gráfico-p5.png) |
 
+
+# 🛠 Ferramentas utilizadas
+
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
